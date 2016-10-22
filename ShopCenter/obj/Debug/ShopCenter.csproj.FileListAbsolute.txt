@@ -1,0 +1,9 @@
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\bin\Debug\ShopCenter.exe.config
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\bin\Debug\ShopCenter.exe
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\bin\Debug\ShopCenter.pdb
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.csprojResolveAssemblyReference.cache
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.Form1.resources
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.Properties.Resources.resources
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.csproj.GenerateResource.Cache
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.exe
+c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.pdb

@@ -7,3 +7,6 @@ c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\De
 c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.csproj.GenerateResource.Cache
 c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.exe
 c:\users\kuba\documents\visual studio 2015\Projects\ShopCenter\ShopCenter\obj\Debug\ShopCenter.pdb
+C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopCenter\bin\Debug\ShopCenter.exe.config
+C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopCenter\obj\Debug\ShopCenter.exe
+C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopCenter\obj\Debug\ShopCenter.pdb

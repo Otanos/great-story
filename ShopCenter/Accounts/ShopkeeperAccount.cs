@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace ShopCenter
 {
-    class CustomerAccount
+    class ShopkeeperAccount:Account
     {
-
-
-
-
+        public ShopkeeperAccount()
+        {
+            Account Shopkeeper = new Account();
+        }
 
     }
 }

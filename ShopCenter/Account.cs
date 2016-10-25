@@ -8,16 +8,21 @@ namespace ShopCenter
 {
     class Account
     {
+        public string AccountGUID { get; set; }
         public string Forename { get; set; }
         public string Surname { get; set; }
         public int AccountTypeId { get; set; }
 
+        // Creating User Account with specified type
         public override void CreateAccount();
+
+        // Deleting User Account 
         public override void DeleteAccount();
+
+        // Login to the system Account
         public override void Login();
-        public override void Logout();
 
-
-
+        // Logout from the system
+        public override void Logout();        
     }
 }

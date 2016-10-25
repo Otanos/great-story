@@ -49,6 +49,7 @@
     <Compile Include="Accounts\Account.cs" />
     <Compile Include="Accounts\AdminAccount.cs" />
     <Compile Include="Accounts\CustomerAccount.cs" />
+    <Compile Include="Accounts\IManageAccounts.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>

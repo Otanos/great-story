@@ -22,19 +22,9 @@ namespace ShopCenter
             this.AccountTypeId = 0;
         }
 
-        public virtual void Login()
-        {
+        public virtual void Login() { }
 
-        }
-
-        public virtual void Logout()
-        {
-
-        }
-
-
-
-
-
+        public virtual void Logout() { }
+        
     }
 }

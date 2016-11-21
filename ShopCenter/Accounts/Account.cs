@@ -8,18 +8,18 @@ namespace ShopCenter
 {
     class Account
     {
-        private string AccountGUID;
-        private string Forename;
-        private string Surname;
-        private int AccountTypeId;
+        private string _accountGUID;
+        private string _forename;
+        private string _surname;
+        private int _accountTypeId;
 
 
         public Account()
         {
-            this.AccountGUID = string.Empty;
-            this.Forename = string.Empty;
-            this.Surname = string.Empty;
-            this.AccountTypeId = 0;
+            this._accountGUID = string.Empty;
+            this._forename = string.Empty;
+            this._surname = string.Empty;
+            this._accountTypeId = 0;
         }
 
         public virtual void Login() { }

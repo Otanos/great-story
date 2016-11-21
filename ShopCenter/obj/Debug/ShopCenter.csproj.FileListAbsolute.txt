@@ -15,3 +15,4 @@ C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopC
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopCenter\obj\Debug\ShopCenter.csproj.GenerateResource.Cache
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopCenter\obj\Debug\ShopCenter.exe
 C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopCenter\obj\Debug\ShopCenter.pdb
+C:\Users\Kuba\Documents\Visual Studio 2015\Projects\ShopCenter\great-story\ShopCenter\obj\Debug\ShopCenter.csprojResolveAssemblyReference.cache

@@ -7,13 +7,14 @@ using System.Threading.Tasks;
 
 namespace ShopCenter
 {   
-    class AdminAccount:Account, Accounts.IManageAccounts
+    class AdminAccount:Account, Accounts.IManageAccounts, Accounts.IManageProducts
     {
-        Account Admin = new Account();
+        Account UserAccount = new Account();
 
-
-
-        private SqlCommand _createAccount = new SqlCommand();
+        private SqlCommand _createAccount;
+        private SqlCommand _deleteAccount;
+        private SqlCommand _disableAccount;
+        private SqlCommand _enableAccount;
 
         public void CreateAccount()
         {
@@ -33,6 +34,31 @@ namespace ShopCenter
         public void EnableAccount()
         {
             
+        }
+
+        public void AddProduct()
+        {
+
+        }
+
+        public void DeleteProduct()
+        {
+
+        }
+
+        public void EditProductPrize()
+        {
+
+        }
+
+        public void EditProductDescription()
+        {
+
+        }
+
+        public void EditProductName()
+        {
+
         }
     }
 }

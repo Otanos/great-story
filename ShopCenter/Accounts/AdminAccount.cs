@@ -15,6 +15,8 @@ namespace ShopCenter
         private SqlCommand _deleteAccount;
         private SqlCommand _disableAccount;
         private SqlCommand _enableAccount;
+        private SqlCommand _addProduct;
+        private SqlCommand _deleteProduct;
 
         public void CreateAccount()
         {

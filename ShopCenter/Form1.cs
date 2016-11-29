@@ -16,12 +16,32 @@ namespace ShopCenter
         public LoginWindow()
         {
             InitializeComponent();
+            SqlConnection connection = new SqlConnection();
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            SqlConnection connection = new SqlConnection("Data Source=localhost; Initial Catalog=ShopCenter;");
+            
         }
 
+        private void loginToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void logoutToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void editAccountToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void quitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
